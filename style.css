@@ -119,3 +119,40 @@ h3 {
     text-decoration: none;
     cursor: pointer;
 }
+.right-column-about,
+.right-column-education {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.right-column-about p {
+    border-left: 1px solid var(--main-color);
+    font-size: 23px;
+    font-weight: 400;
+    padding: 0 15px;
+    background-color: var(--content-background-color);
+    padding: 15px;
+    border-radius: 10px;
+}
+.right-column-education ul {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+    background-color: var(--content-background-color);
+    padding: 15px;
+    border-radius: 10px;
+}
+.right-column-education li {
+    list-style-type: none;
+    font-weight: 400;
+    font-size: 23px;
+}
+.right-column-education li::before {
+    content: '\2022';
+    color: var(--main-color);
+    width: 10px;
+    margin-right: 5px;
+}
