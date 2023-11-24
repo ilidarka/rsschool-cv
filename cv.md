@@ -6,7 +6,7 @@
 -   **Email:** leshkovladik@gmail.com
 -   **Phone:** +375 33 375-03-47
 -   **GitHub:** [Vladik Leshko](https://github.com/ilidarka)
--   **Telegram:** @Vladosles_himself
+-   **Telegram:** [@Vladosles_himself](@Vladosles_himself)
 
 ## Briefly About Myself:
 
@@ -14,7 +14,7 @@ I received my Bachelor's degree in software engineering from Vitebsk State Unive
 
 Now I work as a teacher at the IT department of Vitebsk State Technological College, combining it with freelancing.
 
-I am actively studying such technologies as HTML, CSS, JavaScript and React, so that in the future I can change my job from a teacher to a developer in an IT company.
+I am actively studying such technologies as HTML, CSS, JavaScript and React, so that in the future I can change my job from a teacher to a developer in an IT company. Tried writing full-stack applications using React, NodeJS with Express and MongoDB.
 
 ## Skills:
 
@@ -22,8 +22,13 @@ I am actively studying such technologies as HTML, CSS, JavaScript and React, so 
 -   CSS/SASS
 -   JavaScript/TypeScript(Basic)
 -   React(Basic)
+-   NodeJS with Express
+-   SQL (PostgreSQL and MySQL)
+-   Java
 -   Git
+-   VSCode, Eclipse, IntelliJ IDEA, Postman, Figma for development
 
-## English
+## Languages
 
-B2 (Completed a paid B1 course and then got a B2 working for an IT company.)
+-   **English:** B2 (Completed a paid B1 course and then got a B2 working for an IT company.)
+-   **Russian:** Native
